@@ -1,6 +1,6 @@
 package macierze;
 import java.util.Scanner;
- 
+// gdhfghgfhf
  
 public class Macierze {
  
